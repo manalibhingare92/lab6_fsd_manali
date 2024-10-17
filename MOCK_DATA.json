@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year_published": 1960,
+    "genre": "Fiction"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year_published": 1949,
+    "genre": "Dystopian"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year_published": 1925,
+    "genre": "Classic"
+  },
+  {
+    "id": 5,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year_published": 1813,
+    "genre": "Romance"
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year_published": 1951,
+    "genre": "Fiction"
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year_published": 1937,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 8,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year_published": 1869,
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 9,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year_published": -800,
+    "genre": "Epic"
+  },
+  {
+    "id": 10,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year_published": 1932,
+    "genre": "Dystopian"
+  },
+  {
+    "id": 11,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "year_published": 1320,
+    "genre": "Epic"
+  },
+  {
+    "id": 12,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1866,
+    "genre": "Psychological Fiction"
+  },
+  {
+    "id": 13,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1880,
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "id": 14,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year_published": 1605,
+    "genre": "Satire"
+  },
+  {
+    "id": 15,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "year_published": 1967,
+    "genre": "Magic Realism"
+  },
+  {
+    "id": 16,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year_published": 1847,
+    "genre": "Gothic Fiction"
+  },
+  {
+    "id": 17,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year_published": 1954,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 18,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "year_published": 1847,
+    "genre": "Romantic Fiction"
+  },
+  {
+    "id": 19,
+    "title": "The Iliad",
+    "author": "Homer",
+    "year_published": -750,
+    "genre": "Epic"
+  },
+  {
+    "id": 20,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year_published": 1818,
+    "genre": "Gothic Fiction"
+  },
+  {
+    "id": 21,
+    "title": "ikigai",
+    "author": "manali",
+    "year_published": "2030",
+    "genre": "fiction"
+  }
+]
